@@ -11,7 +11,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class GUIDemo implements ActionListener{
+public class GUIDemoWithEvent implements ActionListener{
     
     public static void main(String args[]) {
 
@@ -23,7 +23,7 @@ public class GUIDemo implements ActionListener{
             JPanel buttonsPanel = new JPanel();
             JButton myButton = new JButton("Click here!");
 
-            GUIDemo buttonListener = new GUIDemo();
+            GUIDemoWithEvent buttonListener = new GUIDemoWithEvent();
             myButton.addActionListener(buttonListener);
             buttonsPanel.add(myButton);
             frame.getContentPane().add(BorderLayout.NORTH, buttonsPanel);

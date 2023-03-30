@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01_ArrayList" isTestSource="false" packagePrefix="edu.ucalgary.oop" />
+      <sourceFolder url="file://$MODULE_DIR$/02_HashSet" isTestSource="false" packagePrefix="edu.ucalgary.oop" />
+      <sourceFolder url="file://$MODULE_DIR$/03_ArrayDeque" isTestSource="false" packagePrefix="edu.ucalgary.oop" />
+      <sourceFolder url="file://$MODULE_DIR$/04_HashMap" isTestSource="false" packagePrefix="edu.ucalgary.oop" />
+      <sourceFolder url="file://$MODULE_DIR$/05_Enum" isTestSource="false" packagePrefix="edu.ucalgary.oop" />
+      <sourceFolder url="file://$MODULE_DIR$/06_RobotData" isTestSource="false" packagePrefix="edu.ucalgary.oop" />
+      <sourceFolder url="file://$MODULE_DIR$/07_Game" isTestSource="false" packagePrefix="edu.ucalgary.oop" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

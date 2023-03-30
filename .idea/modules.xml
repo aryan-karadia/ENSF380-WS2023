@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ENSF380-WS2023.iml" filepath="$PROJECT_DIR$/ENSF380-WS2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01_IntroductionToJava/Lesson01_IntroductionToJava.iml" filepath="$PROJECT_DIR$/Lesson01_IntroductionToJava/Lesson01_IntroductionToJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02_JavaClasses/Lesson02_JavaClasses.iml" filepath="$PROJECT_DIR$/Lesson02_JavaClasses/Lesson02_JavaClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson04_Arrays/Lesson04_Arrays.iml" filepath="$PROJECT_DIR$/Lesson04_Arrays/Lesson04_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson05_JavaStrings/Lesson05_JavaStrings.iml" filepath="$PROJECT_DIR$/Lesson05_JavaStrings/Lesson05_JavaStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson06_Recursion/Lesson06_Recursion.iml" filepath="$PROJECT_DIR$/Lesson06_Recursion/Lesson06_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson07_PrimitiveWrappers/Lesson07_PrimitiveWrappers.iml" filepath="$PROJECT_DIR$/Lesson07_PrimitiveWrappers/Lesson07_PrimitiveWrappers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson08_CopyingObjects/Lesson08_CopyingObjects.iml" filepath="$PROJECT_DIR$/Lesson08_CopyingObjects/Lesson08_CopyingObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson09_OOP/Lesson09_OOP.iml" filepath="$PROJECT_DIR$/Lesson09_OOP/Lesson09_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson11_ClassRelationships/Lesson11_ClassRelationships.iml" filepath="$PROJECT_DIR$/Lesson11_ClassRelationships/Lesson11_ClassRelationships.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson12_Inheritance/Lesson12_Inheritance.iml" filepath="$PROJECT_DIR$/Lesson12_Inheritance/Lesson12_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson13_Interfaces/Lesson13_Interfaces.iml" filepath="$PROJECT_DIR$/Lesson13_Interfaces/Lesson13_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson14_DataStructures/Lesson14_DataStructures.iml" filepath="$PROJECT_DIR$/Lesson14_DataStructures/Lesson14_DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson15_Generics/Lesson15_Generics.iml" filepath="$PROJECT_DIR$/Lesson15_Generics/Lesson15_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson16_Packages/Lesson16_Packages.iml" filepath="$PROJECT_DIR$/Lesson16_Packages/Lesson16_Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson17_Exceptions/Lesson17_Exceptions.iml" filepath="$PROJECT_DIR$/Lesson17_Exceptions/Lesson17_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson18A_Testing/Lesson18A_Testing.iml" filepath="$PROJECT_DIR$/Lesson18A_Testing/Lesson18A_Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson18B_Testing/Lesson18B_Testing.iml" filepath="$PROJECT_DIR$/Lesson18B_Testing/Lesson18B_Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson18C_UnitTesting/Lesson18C_UnitTesting.iml" filepath="$PROJECT_DIR$/Lesson18C_UnitTesting/Lesson18C_UnitTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson19_IOStream/Lesson19_IOStream.iml" filepath="$PROJECT_DIR$/Lesson19_IOStream/Lesson19_IOStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson20_Databases/Lesson20_Databases.iml" filepath="$PROJECT_DIR$/Lesson20_Databases/Lesson20_Databases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson23_GUI/Lesson23_GUI.iml" filepath="$PROJECT_DIR$/Lesson23_GUI/Lesson23_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson25_Scoping/Lesson25_Scoping.iml" filepath="$PROJECT_DIR$/Lesson25_Scoping/Lesson25_Scoping.iml" />
+    </modules>
+  </component>
+</project>

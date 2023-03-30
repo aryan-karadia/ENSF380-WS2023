@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01_CreatingStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02_StringLength" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03_Concatenation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04_CastingToString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05_CastingFromString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06_Substrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07_CompareStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_StringBuilder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_FindMatches" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_CountMatches" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11_Tokenizer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/12_MoreRegexes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/13_FormattedOutput" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14_Exercise_JavaStrings" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

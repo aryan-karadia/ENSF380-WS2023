@@ -9,7 +9,7 @@ package edu.ucalgary.oop;
 import javax.swing.*;
 import java.awt.*;
 
-public class GUIDemo {
+public class GUIDemoWithButton {
     public static void main(String args[]) {
 
         EventQueue.invokeLater(() -> {
